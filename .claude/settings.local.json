@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(move \"c:\\\\Users\\\\Scott\\\\Desktop\\\\SensorSim-Anomaly-Detector\\\\_headers\" \"c:\\\\Users\\\\Scott\\\\Desktop\\\\SensorSim-Anomaly-Detector\\\\public\\\\_headers\")",
+      "Bash(move:*)",
+      "Bash(npm install)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)"
+    ]
+  }
+}
